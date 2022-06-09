@@ -1,0 +1,7 @@
+{
+  "name": "ionic-date-time-repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
